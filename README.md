@@ -3,9 +3,9 @@
 Lotor - is a hybrid type of focused and incremental crawlers: (1) focused since it collects relevant (Albanian)
 documents and (2) incremental because it incrementally refreshes the existing collection of a domain list. This language focused web crawler aims to exclude domains which are not written in Albanian from a given set of domains and ranks exclusively Albanian domains by their importance. This tool makes predictions about the size of domains, the domains main language (as Albanian or not), the multilingual domains, where at least one of the languages is Albanian, and (4) the quality of a domain. 
 
-Lotor - gets all its information for the domain by crawling maximum its thre levels.
+Lotor - gets all its information for the domain by crawling maximum its three levels.
 
-Procyon lotor is a mammal who dips his food in water before eating, and Lotor from latin stands for washer. Our crawler doesn't decide that a domain is Albanian just by its index page language, but it analyzes its index page and all first level pages.
+Procyon lotor is a mammal who dips his food in water before eating, and Lotor from latin stands for washer. Our crawler doesn't decides that a domain is Albanian just by its index page language, but it analyzes its index page and all first level pages.
 
 Usage : 
 
@@ -32,3 +32,5 @@ More information about Lotor/lotor_input folder you can find in Globals/Configs.
 
 In Lotor/lotor_output are created temporary (cached) files and those which sum up the crawl process. 
 For example folder results contains files such : albanian_domains.csv, nonalbanian_domains.csv, likely_albanian_domains.html and likely_multilingual.htm  which give information about the domains previously crawled.
+
+This project can be generalized into more than one language.
