@@ -1,6 +1,6 @@
 # Lotor
 
-Lotor - wrriten in C#, is a hybrid type of focused and incremental crawlers: (1) focused since it collects relevant (Albanian)
+Lotor - built from scratch and writen in C#, is a hybrid type of focused and incremental crawlers: (1) focused since it collects relevant (Albanian)
 documents and (2) incremental because it incrementally refreshes the existing collection of a domain list. This language focused web crawler aims to exclude domains which are not written in Albanian from a given set of domains and ranks exclusively Albanian domains by their importance. This tool makes predictions about the size of domains, the domains main language (as Albanian or not), the multilingual domains, where at least one of the languages is Albanian, and (4) the quality of a domain. Lotor gets all the necessary information for the domain by crawling maximum its three levels.
 
 Procyon lotor is a mammal who dips his food in water before eating, and Lotor from Latin stands for washer. This web-crawler doesn't decide that a domain is Albanian just by checking its index page language, but it analyzes its index page and all first level pages, so it washes it well.
