@@ -66,4 +66,6 @@ and similarly the file <b>likely_multilingual.htm</b> will contain multilingual 
 
 Lotor was used to test our proposed methods in a scientific paper published as: <i>"Model-based prediction of the size, the language and the quality of the web domains"</i> and it produced highly accurate results in determining and classifying Albanian and non-Albanian domains.
 
-This project can be generalized into more than one language.
+The aim of being in github is: first of all to be useful and to help anyone in need, to get improved and to be generalized into more than one language.
+
+This project was initiated by Rexhep Shijaku and Ercan Canhasi. 
