@@ -56,7 +56,7 @@ From the previous input list <b> albanian_domains.csv </b> at the end of crawlin
   <li>emeraldhotel.info => emeraldhotel.info?lang=sq.</li>
 </ul>
 
-and similarly the file <b>likely_multilingual.htm</b> will contain startek.al, because it has more than one language in following format: 
+and similarly the file <b>likely_multilingual.htm</b> will contain multilingual domains which primarily are written in Albanian, in this case it will contain startek.al in following format:
 
 <ul>
   <li>startek.al => startek.al/?lang=en</li>
@@ -64,6 +64,6 @@ and similarly the file <b>likely_multilingual.htm</b> will contain startek.al, b
 
 <br>Additional information about Lotor/lotor_input folder you can find in Globals/Configs.cs commented lines.</b>
 
-Lotor was used to test our proposed methods in a scientific paper published as: "Model-based prediction of the size, the language and the quality of the web domains" and it produced highly accurate results in determining and classifying Albanian and non-Albanian domains.
+Lotor was used to test our proposed methods in a scientific paper published as: <i>"Model-based prediction of the size, the language and the quality of the web domains"</i> and it produced highly accurate results in determining and classifying Albanian and non-Albanian domains.
 
 This project can be generalized into more than one language.
