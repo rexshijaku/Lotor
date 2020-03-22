@@ -5,14 +5,14 @@ documents and (2) incremental because it incrementally refreshes the existing co
 
 Procyon lotor is a mammal who dips his food in water before eating, and Lotor from Latin stands for washer. This web-crawler doesn't decide that a domain is Albanian just by checking its index page language, but it analyzes its index page and all first level pages, so it washes it well.
 
-Configuration and usage : 
+<b>Configuration and usage</b> 
 <ol>
   <li> Clone this repository </li>
   <li> Make sure all packages are installed </li>
   <li> You will need to run on Packer Manager Console following command: Install-Package HtmlAgilityPack </li>
 </ol>
 
-Helpful information: 
+<b>Helpful information</b>
 
 Alomst every piece of code is commented.
 
