@@ -1,0 +1,1 @@
+contact me on rexhepshijaku@gmail.com in order to get access for free in our 30000 mos frequent Albanian words and to all stopwords as well
