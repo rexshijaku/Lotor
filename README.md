@@ -41,7 +41,7 @@ the result of the preceding list processed by Lotor will be as below :
 <li>eurosistemalbania.al 4.67</li>
 <li>linktone.al 1.87</li>
 <li><strike>sabah.com.tr</strike></li>
-<li><strike>emeraldhotel.info</li></li>
+<li><strike>emeraldhotel.info</strike></li>
 </ul>
 
 Files such as: <b>al_stopwords.txt</b> (which should contain 45 stopwords) and <b>albTerms4.txt</b> (which should contain 30000 the most common Albanian words on the web which contain at least four letters) are incomplete (due to copyright and company privacy)! 
