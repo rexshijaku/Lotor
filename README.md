@@ -12,9 +12,9 @@ Configuration and usage :
   <li> You will need to run on Packer Manager Console following command: Install-Package HtmlAgilityPack </li>
 </ol>
 
-Alomst every piece of code is commented.
-
 Helpful information: 
+
+Alomst every piece of code is commented.
 
 <b>Lotor/lotor_input</b> and <b>Lotor/lotor_output</b> are the only folders we should focus on.
 
